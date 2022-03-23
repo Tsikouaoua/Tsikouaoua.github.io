@@ -1,0 +1,21 @@
+BLACKJACK GAME:
+οι άσσοι πάνε 1,11,11  για ΑΑΑ
+blackjack κερδίζει το 21, blackjack με blackjack ισοπαλία αντίστοιχα 21- 21
+να είναι γυρισμένο πρώτο το χαρτί στον dealer
+να μπουν όλες οι κάρτες
+να μπούν μάρκες και μέτρηση χρημάτων
+να μπουν οι κανόνες του blackjack
+
+
+
+
+
+
+
+
+
+BLACKJACK BROWSER ACCES:
+
+BLACKJACK PAYMENT:
+
+
